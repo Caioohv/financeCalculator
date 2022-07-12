@@ -1,0 +1,19 @@
+{
+  "name": "financecalculator",
+  "version": "1.0.0",
+  "description": "API - Caluladora de finanças pessoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caioohv/financeCalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caioohv/financeCalculator/issues"
+  },
+  "homepage": "https://github.com/Caioohv/financeCalculator#readme"
+}
