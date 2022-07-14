@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-router.route('/')
+router.route('/receipt')
 	.get((req, res) => {res.json('retorno get /receipts')})
 	.post((req, res) => {res.json('retorno post /receipts')})
 	.put((req, res) => {res.json('retorno put /receipts')})
